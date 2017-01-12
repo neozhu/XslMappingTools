@@ -1,0 +1,11 @@
+d:\demo\XslMappingApp\XslMappingApp\bin\Debug\XslMappingApp.exe.config
+d:\demo\XslMappingApp\XslMappingApp\bin\Debug\XslMappingApp.exe
+d:\demo\XslMappingApp\XslMappingApp\bin\Debug\XslMappingApp.pdb
+d:\demo\XslMappingApp\XslMappingApp\obj\Debug\XslMappingApp.csprojResolveAssemblyReference.cache
+d:\demo\XslMappingApp\XslMappingApp\obj\Debug\XslMappingApp.Properties.Resources.resources
+d:\demo\XslMappingApp\XslMappingApp\obj\Debug\XslMappingApp.csproj.GenerateResource.Cache
+d:\demo\XslMappingApp\XslMappingApp\obj\Debug\XslMappingApp.exe
+d:\demo\XslMappingApp\XslMappingApp\obj\Debug\XslMappingApp.pdb
+d:\demo\XslMappingApp\XslMappingApp\bin\Debug\ScintillaNET.dll
+d:\demo\XslMappingApp\XslMappingApp\bin\Debug\ScintillaNET.xml
+d:\demo\XslMappingApp\XslMappingApp\obj\Debug\XslMappingApp.mainForm.resources
